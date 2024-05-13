@@ -2,8 +2,8 @@
 ## Task - 1
 ### Project Understanding:
 **A data analyst sits between the business and the data.**
->-Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
- >- Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
+>- Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
+>- Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
 ## Task - 2 [data model]
 To identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
  - After Analysis we got data sets needed to complete analysis:
